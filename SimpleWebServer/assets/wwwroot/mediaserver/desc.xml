@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0" configId="1981">
+
+<specVersion>
+  <major>1</major>
+  <minor>1</minor>
+</specVersion>
+
+<device>
+  <deviceType>urn:schemas-upnp-org:device:deviceType:v</deviceType>
+  <friendlyName>short user-friendly title</friendlyName>
+  <manufacturer>xuchun</manufacturer>
+  <manufacturerURL>zuojisi@gmail.com</manufacturerURL>
+  <modelDescription>long user-friendly title</modelDescription>
+  <modelNamemodel name</modelName>> 
+  <modelNumber>model number</modelNumber>
+  <modelURLURL to model site</modelURL>> <serialNumber>manufacturer's serial number</serialNumber>
+  <UDN>uuid:UUID</UDN>
+  <UPC>Universal Product Code</UPC>
+
+<iconList>
+  <icon>
+    <mimetype>image/png</mimetype>
+    <width>48</width>
+    <height>48</height>
+    <depth>32</depth>
+    <url>http://xxxx/mediaserver/icon.png</url>
+  </icon>
+</iconList>
+
+<serviceList>
+<service> 
+  <serviceType>urschemas-upnp-org n::service:serviceType:v</serviceType> <serviceId>urn:upnp-org:serviceId:serviceID
+</serviceId> <SCPDURL>URL to service description</SCPDURL>
+<controlURL>URL for control</controlURL>
+<eventSubURL>URL for eventing</eventSubURL>
+43
+</service>
+</serviceList>
+
+<presentationURL>URL for presentation</presentationURL>
+</device>
+
+</root>
